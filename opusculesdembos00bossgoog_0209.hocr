@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculesdembos00bossgoog_0209.png"; bbox 0 0 2244 3856; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 95 1019 950 1482">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 95 1012 1108 1482">
+     <span class='ocr_line' id='line_1_1' title="bbox 95 1019 950 1482; baseline -0.007 -169"><span class='ocrx_word' id='word_1_1' title='bbox 95 1019 836 1482; x_wconf 54' lang='lat' dir='ltr'><strong>REGLEUMENT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 949 1043 950 1050; x_wconf 5' lang='grc' dir='ltr'><em>Ὗ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 173 1503 1024 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 173 1503 1024 1703">
+     <span class='ocr_line' id='line_1_2' title="bbox 173 1503 1024 1703; baseline -0.012 0"><span class='ocrx_word' id='word_1_3' title='bbox 173 1587 757 1703; x_wconf 60' lang='grc' dir='ltr'>εΕΜῑΝΑικΕ</span> <span class='ocrx_word' id='word_1_4' title='bbox 940 1503 1024 1564; x_wconf 44' lang='grc'><strong>“’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 402 1779 519 1844">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 402 1779 519 1844">
+     <span class='ocr_line' id='line_1_3' title="bbox 402 1779 519 1844; baseline 0.009 -1"><span class='ocrx_word' id='word_1_5' title='bbox 402 1779 519 1844; x_wconf 81' lang='lat' dir='ltr'><strong>DES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 13 1901 832 2108">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 13 1901 832 2108">
+     <span class='ocr_line' id='line_1_4' title="bbox 13 1901 832 1992; baseline 0.01 -10"><span class='ocrx_word' id='word_1_6' title='bbox 13 1957 14 1968; x_wconf 25' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_7' title='bbox 96 1903 264 1992; x_wconf 66' lang='lat' dir='ltr'><strong>FLLLES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 290 1906 363 1983; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 377 1905 455 1982; x_wconf 65' lang='lat' dir='ltr'><strong>LA,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 468 1901 832 1992; x_wconf 73' lang='lat' dir='ltr'>PROPAGATION.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 215 2003 726 2108; baseline -0.002 -17"><span class='ocrx_word' id='word_1_11' title='bbox 215 2006 266 2092; x_wconf 87' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 282 2005 320 2091; x_wconf 87' lang='lat' dir='ltr'><strong>la</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 335 2008 434 2108; x_wconf 68' lang='lat'>1²01,</span> <span class='ocrx_word' id='word_1_14' title='bbox 452 2003 612 2090; x_wconf 58' lang='lat' dir='ltr'>&amp;tablies</span> <span class='ocrx_word' id='word_1_15' title='bbox 625 2034 675 2090; x_wconf 86' lang='lat' dir='ltr'><strong>en</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 688 2005 726 2090; x_wconf 82' lang='lat' dir='ltr'><strong>la</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 306 2118 664 2252">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 306 2118 664 2252">
+     <span class='ocr_line' id='line_1_6' title="bbox 306 2118 664 2252; baseline -0.017 -42"><span class='ocrx_word' id='word_1_17' title='bbox 306 2118 619 2218; x_wconf 66' lang='lat' dir='ltr'><strong>VilledeMetz.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 660 2239 664 2252; x_wconf 33' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1126 3856">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1126 3856">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1126 3856; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1126 3856; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
